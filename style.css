@@ -1,0 +1,42 @@
+.h1tag {
+    width: 100%;
+    margin: 0%;
+    font-size: 40px;
+    font-family: 'Sacramento', cursive;
+    line-height: 55px;
+    background-color: rebeccapurple;
+    color: white;
+}
+
+body {
+    background-size: cover;
+}
+.all23{
+    font-family: 'Poiret One', cursive;
+    
+    font-size: 20px;
+}
+canvas {
+    border-color: white;
+    border-radius:20px;
+    border: solid;
+    box-shadow:5px 5px 28px white ;
+    transform: rotate(30deg);
+
+}
+.footer {
+bottom:0px;
+position:fixed;
+background-color:black;
+color:white;
+font-family: 'Poiret One', cursive;
+text-align:center;
+width:100%;
+line-height:60px;
+font-size:20px;
+margin-bottom: 0px;
+}
+p {
+    font-size: 30px;
+    color:white;
+}
